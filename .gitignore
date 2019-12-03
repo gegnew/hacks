@@ -102,3 +102,10 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+
+sentiment_analysis/data/
+assessments/
+__assessments__/
+node_modules
+*node_modules
